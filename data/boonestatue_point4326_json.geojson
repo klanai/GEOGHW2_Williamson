@@ -1,8 +1,0 @@
-{
-"type": "FeatureCollection",
-"name": "boonestatue_point4326_json",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "id": 1 }, "geometry": { "type": "Point", "coordinates": [ -81.682531817484787, 36.213782278157943 ] } }
-]
-}
